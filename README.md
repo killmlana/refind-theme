@@ -1,4 +1,4 @@
-###Files used in my refind theme
+Files used in my refind theme
 
 
 Banner file used: background.png
